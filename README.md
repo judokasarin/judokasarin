@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **c#, neovim**
 
-- 💬 Ask me about **react, frontend, backend, cloud, general programing**
+- 💬 Ask me about **react, frontend, backend, cloud, general programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
