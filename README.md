@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13043
-Fork on GitHub
-3378
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Arunesh Sarin</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
